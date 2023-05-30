@@ -16,11 +16,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello World Microverse] <a name="about-project"></a>
+# 📖 Hello World Microverse <a name="about-project"></a>
 
 Hello world program
 
-**[your_project__name]** is a learning exercise on Microverse to learn and improve use of git and github
+**Hello world ** is a learning exercise on Microverse to learn and improve use of git and github
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -32,8 +32,6 @@ Hello world program
     <li>HTML</li>
   </ul>
 </details>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
