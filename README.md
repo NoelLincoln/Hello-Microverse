@@ -73,7 +73,9 @@ No installation needed
 To run the project:
 
 > Open the directory in a code editor(vscode)
-> Install live server extension
+
+> Install live server extension</li>
+
 > Right click index.html and open with live server
 
 ### Run tests
@@ -81,6 +83,9 @@ To run the project:
 To run tests:
 
 > Open https://validator.w3.org/
+
+<ul></ul>
+
 > Upload specific files to check for errors
 
 ### Deployment
