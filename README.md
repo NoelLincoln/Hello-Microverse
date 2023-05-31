@@ -14,7 +14,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -87,10 +86,6 @@ To run tests:
 <ul></ul>
 
 > Upload specific files to check for errors
-
-### Deployment
-
-Project can be deployed on any web hosting platform.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
